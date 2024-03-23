@@ -40,6 +40,8 @@ dependencies:
   d_method: ^0.2.6
   d_info: ^0.2.2
   uuid: ^4.3.3
+  http: ^1.2.1
+  extended_image: ^8.2.0
 
 dev_dependencies:
   flutter_test:
